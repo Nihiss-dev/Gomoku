@@ -1,0 +1,10 @@
+C:\Users\Nounours\Downloads\gomoku\stones\bin\Stones.exe
+C:\Users\Nounours\Downloads\gomoku\stones\bin\Stones.pdb
+C:\Users\Nounours\Downloads\gomoku\stones\Stones\obj\Debug\Stones.csprojResolveAssemblyReference.cache
+C:\Users\Nounours\Downloads\gomoku\stones\Stones\obj\Debug\Stones.Form1.resources
+C:\Users\Nounours\Downloads\gomoku\stones\Stones\obj\Debug\Stones.Properties.Resources.resources
+C:\Users\Nounours\Downloads\gomoku\stones\Stones\obj\Debug\Stones.csproj.GenerateResource.Cache
+C:\Users\Nounours\Downloads\gomoku\stones\Stones\obj\Debug\Stones.exe
+C:\Users\Nounours\Downloads\gomoku\stones\Stones\obj\Debug\Stones.pdb
+C:\Users\Nounours\Downloads\gomoku\stones\bin\background.png
+C:\Users\Nounours\Downloads\gomoku\stones\bin\Resources\background.png
